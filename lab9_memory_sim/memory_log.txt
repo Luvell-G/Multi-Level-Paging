@@ -1,0 +1,11 @@
+Time 0: Address (0,0,0,20,R) -> 20
+Time 1: Random (2,0,3,112,R) -> EXCEPTION: Address exceeds segment limit
+Time 2: Random (0,11,11,668,W) -> EXCEPTION: Invalid directory number
+Time 3: Random (6,10,13,589,R) -> EXCEPTION: Invalid segment number
+Time 4: Random (4,11,11,464,R) -> EXCEPTION: Invalid segment number
+Time 5: Random (3,1,3,59,W) -> EXCEPTION: Invalid segment number
+Time 6: Random (3,10,10,394,R) -> EXCEPTION: Invalid segment number
+Time 7: Random (1,10,12,637,W) -> EXCEPTION: Invalid directory number
+Time 8: Random (0,11,11,363,R) -> EXCEPTION: Invalid directory number
+Time 9: Random (4,0,2,219,R) -> EXCEPTION: Invalid segment number
+Time 10: Random (0,0,1,236,W) -> EXCEPTION: Write denied: segment is read-only

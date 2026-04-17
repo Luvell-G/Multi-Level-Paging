@@ -1,0 +1,6 @@
+Address (0,0,0,10,R): Physical=10
+Address (0,1,1,20,W): Physical=1020
+Address (1,0,0,15,R): Physical=7015
+Address (1,0,0,15,W): Cannot write to read-only segment 1
+Address (5,2,8,500,R): Invalid segment 5
+Fault Rate: 40%
